@@ -58,3 +58,4 @@ arr.push(`\`${pull.config.name}\``)
 })
 return arr;
 }
+//editado!
